@@ -40,9 +40,9 @@ var runIt = function(data) {
    }
 
    var lose = {
-    "A": "P",
+    "A": "S",
     "B": "R",
-    "C": "S"
+    "C": "P"
    }
 
     var score = 0;
@@ -96,7 +96,7 @@ var runIt = function(data) {
             console.log("win3")
         }
         */
-       console.log(score)
+       //console.log(score)
     })
 
     console.log(score);
